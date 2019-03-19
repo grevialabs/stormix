@@ -1,0 +1,13 @@
+- Single Page Application vs Universal
+
+npm run dev
+
+npm run build
+
+- for comparison only check this : https://github.com/jhnns/spa-vs-universal
+
+- bug on lint / prettier can solve by this : 
+$ npm run lint -- --fix
+
+TUtorial view on nuxt:
+- https://nuxtjs.org/guide/views
